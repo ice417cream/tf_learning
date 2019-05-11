@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/liuchang505/git/tf_learning/mnist/model/model.ckpt-29001"
+all_model_checkpoint_paths: "/home/liuchang505/git/tf_learning/mnist/model/model.ckpt-25001"
+all_model_checkpoint_paths: "/home/liuchang505/git/tf_learning/mnist/model/model.ckpt-26001"
+all_model_checkpoint_paths: "/home/liuchang505/git/tf_learning/mnist/model/model.ckpt-27001"
+all_model_checkpoint_paths: "/home/liuchang505/git/tf_learning/mnist/model/model.ckpt-28001"
+all_model_checkpoint_paths: "/home/liuchang505/git/tf_learning/mnist/model/model.ckpt-29001"
